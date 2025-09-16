@@ -1,0 +1,12 @@
+typer>=0.12.3
+python-dotenv>=1.0.1
+pandas>=2.2.2
+duckdb>=1.0.0
+duckdb-engine>=0.11.2
+SQLAlchemy>=2.0.32
+langchain>=0.2.13
+langchain-community>=0.2.12
+langchain-ollama>=0.1.1
+rich>=13.8.0
+langchain-groq>=0.1.4
+streamlit>=1.37.1

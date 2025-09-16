@@ -1,0 +1,16 @@
+# Ignorar arquivos e pastas de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Outros padrões comuns
+.env
+.env.*
+!.env.example
+*.db
+
+# Ambientes virtuais
+.venv/
+venv/
+.env.local

@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "nl2sql-ollama-duckdb"
+version = "0.1.0"
+description = "Agente NL2SQL com Ollama, LangChain e DuckDB"
+authors = ["You <you@example.com>"]
+packages = [
+    { include = "nl2sql_agent", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+typer = "^0.12.3"
+python-dotenv = "^1.0.1"
+pandas = "^2.2.2"
+duckdb = "^1.0.0"
+duckdb-engine = "^0.11.2"
+sqlalchemy = "^2.0.32"
+langchain = "^0.2.13"
+langchain-community = "^0.2.12"
+langchain-ollama = "^0.1.1"
+
+[tool.poetry.group.dev.dependencies]
+rich = "^13.8.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

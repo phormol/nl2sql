@@ -1,0 +1,41 @@
+id,product,category,price,quantity,order_date
+1,Mouse,Periféricos,25.90,2,2023-01-05
+2,Teclado,Periféricos,45.00,1,2024-01-06
+3,Monitor,Monitores,899.00,1,2024-01-07
+4,Mouse,Periféricos,25.90,1,2024-01-07
+5,Notebook,Computadores,4599.00,1,2024-01-08
+6,Headset,Áudio,199.90,3,2024-01-08
+7,Mousepad,Periféricos,39.90,2,2024-01-09
+8,Monitor,Monitores,1099.00,1,2024-01-10
+9,Notebook,Computadores,5599.00,1,2024-01-11
+10,Teclado,Periféricos,119.90,1,2024-01-12
+11,SSD 500GB,Armazenamento,349.90,1,2024-01-13
+12,HD 1TB,Armazenamento,299.90,2,2024-01-13
+13,Impressora,Impressão,799.00,1,2024-01-14
+14,Cartucho de Tinta,Impressão,89.90,2,2024-01-14
+15,Roteador AC1200,Redes,259.90,1,2024-01-15
+16,Switch 8 portas,Redes,189.90,1,2024-01-15
+17,Cabo HDMI 2.0,Acessórios,29.90,3,2024-01-16
+18,Suporte Monitor 27,Acessórios,149.90,1,2024-01-16
+19,Cadeira Gamer,Cadeiras,1299.00,1,2024-01-17
+20,Webcam 1080p,Acessórios,219.90,1,2024-01-17
+21,Microfone USB,Áudio,349.90,1,2024-01-18
+22,Caixa de Som 2.1,Áudio,299.90,1,2024-01-18
+23,Notebook,Computadores,3999.00,1,2024-01-19
+24,Notebook,Computadores,6299.00,1,2024-01-19
+25,Monitor UltraWide,Monitores,1899.00,1,2024-01-20
+26,Monitor 24,Monitores,749.00,2,2024-01-20
+27,Teclado Mecânico,Periféricos,299.90,1,2024-01-21
+28,Mouse Gamer,Periféricos,159.90,2,2024-01-21
+29,Mousepad XL,Periféricos,79.90,1,2024-01-22
+30,Headset Gamer,Áudio,429.90,1,2024-01-22
+31,Licença Office,Software,499.00,1,2024-01-23
+32,Antivírus 1 ano,Software,99.90,2,2024-01-23
+33,Pen Drive 64GB,Armazenamento,59.90,3,2024-01-24
+34,Cartão SD 128GB,Armazenamento,129.90,2,2024-01-24
+35,Base Refrigerada,Acessórios,139.90,1,2024-01-25
+36,Hub USB 4 portas,Acessórios,89.90,2,2024-01-25
+37,Dock Station,Periféricos,599.90,1,2024-01-26
+38,Placa de Vídeo,Computadores,1899.00,1,2024-01-26
+39,Memória RAM 16GB,Computadores,329.90,2,2024-01-27
+40,HD Externo 2TB,Armazenamento,499.90,1,2024-01-27
