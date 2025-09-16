@@ -1,4 +1,4 @@
-# NL2SQL com Ollama + LangChain + DuckDB
+# NL2SQL com Ollama/Groq + LangChain + DuckDB
 
 Este projeto cria um agente que converte perguntas em linguagem natural em consultas SQL (NL2SQL) e executa-as em um banco local DuckDB, usando modelos via Ollama/Groq e a orquestração do LangChain.
 
@@ -139,3 +139,4 @@ streamlit run streamlit_app.py
 Requisitos: 
 - Para Ollama: o serviço precisa estar rodando e o modelo escolhido disponível (`ollama pull <modelo>`).
 - Para Groq: é necessário definir `GROQ_API_KEY` e escolher um `GROQ_MODEL` válido.
+
